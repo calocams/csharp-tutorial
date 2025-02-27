@@ -6,3 +6,6 @@
   </PropertyGroup>
 
 </Project>
+Console.Writeline("Hello Pro Grammer Tv!");
+Console.Writeline("Test Commit");
+Console.Writeline("Last Line");
